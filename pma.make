@@ -1,8 +1,6 @@
 core = 6.x
 api = 2
 
-;projects[drupal][version] = "6.27"
-
 ;Modules 
 projects[views][subdir] = "contrib"
 projects[views][version] = "2.16"
