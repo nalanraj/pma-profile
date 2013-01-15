@@ -1,4 +1,4 @@
 name = pma
 description = Project management for agile
 
-dependancies[] = pm_feature_general
+;dependancies[] = pm_feature_general
