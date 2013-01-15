@@ -1,6 +1,8 @@
 core = 6.x
 api = 2
 
+;projects[drupal][version] = "6.27"
+
 ;Modules 
 projects[views][subdir] = "contrib"
 projects[views][version] = "2.16"
@@ -55,6 +57,9 @@ projects[strongarm][version] = "2.2"
 
 projects[views_attach][subdir] = "contrib"
 projects[views_attach][version] = "2.16"
+
+projects[token][subdir] = "contrib"
+projects[token][version] = "1.19"
 
 libraries[jquery.ui][download][type] = get
 libraries[jquery.ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.7.2.zip"
