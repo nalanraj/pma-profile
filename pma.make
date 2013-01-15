@@ -1,4 +1,4 @@
-core = 6.27
+core = 6.x
 api = 2
 
 ;projects[drupal][version] = "6.27"
