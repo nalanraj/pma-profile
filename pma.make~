@@ -56,7 +56,7 @@ projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.2"
 
 projects[views_attach][subdir] = "contrib"
-projects[views_attach][version] = "2.2"
+projects[views_attach][version] = "2.16"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.19"
