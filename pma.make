@@ -24,8 +24,8 @@ projects[active_tags][version] = "1.9"
 projects[ajax_load][subdir] = "contrib"
 projects[ajax_load][version] = "1.4"
 
-projects[content_access][subdir] = "contrib"
-projects[content_access][version] = "1.2"
+;projects[content_access][subdir] = "contrib"
+;projects[content_access][version] = "1.2"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.10"
