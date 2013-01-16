@@ -13,7 +13,7 @@ projects[admin_menu][version] = "1.8"
 projects[cck][subdir] = "contrib"
 projects[cck][version] = "2.9"
 ;http://drupal.org/node/272949#comment-3062480
-projects[cck][patch][] = "http://drupal.org/files/issues/content.token_.inc-6x-1.13-referenced-mail.patch"
+;projects[cck][patch][] = "http://drupal.org/files/issues/content.token_.inc-6x-1.13-referenced-mail.patch"
 
 projects[conditional_fields][subdir] = "contrib"
 projects[conditional_fields][version] = "2.0"
