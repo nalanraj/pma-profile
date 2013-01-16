@@ -1,6 +1,0 @@
-name = pma
-description = Project management for agile
-
-dependencies[] = pm_feature_general
-
-theme = neelambal
