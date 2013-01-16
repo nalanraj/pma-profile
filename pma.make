@@ -43,9 +43,6 @@ projects[filefield][version] = "3.10"
 projects[jquery_ui][subdir] = "contrib"
 projects[jquery_ui][version] = "1.5"
 
-libraries[jquery.ui][download][type] = get
-libraries[jquery.ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.7.2.zip"
-
 projects[jquery_update][subdir] = "contrib"
 projects[jquery_update][version] = "2.0-alpha1"
 
@@ -63,6 +60,11 @@ projects[views_attach][version] = "2.2"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.19"
+
+libraries[jquery_ui][download][type] = "get"
+libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery.ui-1.7.2.zip"
+libraries[jquery_ui][directory_name] = "jquery.ui"
+libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
 
 libraries[profiler][download][type] = "get"
 libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-6.x-2.0-beta2.tar.gz"
