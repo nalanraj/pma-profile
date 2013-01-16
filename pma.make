@@ -62,7 +62,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.19"
 
 libraries[jquery_ui][download][type] = "get"
-libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery.ui-1.7.2.zip"
+libraries[jquery_ui][download][url] = "https://jquery-ui.googlecode.com/files/jquery-ui-1.7.2.zip"
 libraries[jquery_ui][directory_name] = "jquery.ui"
 libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
 
